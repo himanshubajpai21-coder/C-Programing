@@ -13,7 +13,6 @@ int main(){
     
     return 0;
 }
-
 int calculatesquare(int a){
     return a*a;
 }
